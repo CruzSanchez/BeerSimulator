@@ -1,2 +1,2 @@
 # BeerSimulator
-# this is a change.
+This is a read me for Beer Simulator!
